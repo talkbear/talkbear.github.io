@@ -1,0 +1,21 @@
+- [ ] macos window manager tool [Amethyst](https://github.com/ianyh/Amethyst)
+- [x] the best command line search engine [duckduckgo] `brew install ddgr`
+- [x] create your private .vimrc/.tmuxrc/etc config files and keep it on the github
+- [x] managed my personal notes using Markdown and the fuzzy file finder plugin.
+- [x] lspconfig
+- [x] learn neovim basis
+- [x] learn tmux basis
+- [x] /coc-markmap
+- [x] Set command line translation and dictionary.
+- [ ] A command line messager [irssi](https://irssi.org/New-users/)
+- [ ] A command line haibt tracker tool [dijo](https://github.com/nerdypepper/dijo)
+- [ ] Contribution to one open source project [habitica](https://github.com/HabitRPG/habitica)
+- [ ] Finish Front-end tmux neovim configuration.
+- [ ] Push docs to github pages and create the personal site.
+- [ ] A todo/task list management tool[taskbook](https://github.com/klaussinani/taskbook).
+- [ ] Configure tiling window layout with Amethyst.
+- [ ] Finish tmux docs session configuration.
+- [ ] Set theme of tmux and nv in my favorite.
+- [ ] Creaate a work session and corresponding tiling layout and configuration.
+- [ ] Copy the window10 iso file to usb.
+
